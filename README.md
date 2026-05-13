@@ -7,4 +7,6 @@ GitHub Repo --> https://github.com/CzaxStudio/SharpKit
 
 Download using 
 
+```csharp
 dotnet add package SharpKit.Offensive.Sleek --version 1.0.0
+```
