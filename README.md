@@ -1,2 +1,4 @@
 # SharpKit-Docs
-Documentation for Sharpkit offensive library
+Documentation for SharpKit offensive library
+
+SharpKit is a library for C# for legal Offensive works(Red Teaming)
